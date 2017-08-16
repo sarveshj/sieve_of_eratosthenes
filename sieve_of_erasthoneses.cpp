@@ -51,8 +51,8 @@ void sieve_of_erasthoneses(int n){//,
 	
 	std::cout <<"size of sieve is :" << sieve.size() <<"\n";
 	std::cout <<"=======================\n"
-			  <<"Numbers are as follows:\n" 
-			  <<"=======================\n";
+		  <<"Numbers are as follows:\n" 
+		  <<"=======================\n";
 	
 	// print sieve elements marked by true flag, which indicates 
 	// they are prime numbers!
